@@ -1,6 +1,6 @@
 {
   "name": "@iflow-mcp/line-line-bot-mcp-server",
-  "version": "0.0.1-local",
+  "version": "0.0.1",
   "description": "MCP server for interacting with your LINE Official Account",
   "type": "module",
   "engines": {
